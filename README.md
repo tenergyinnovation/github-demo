@@ -4,3 +4,5 @@ for test github
 Add line2
 
 This line from local repository
+
+Git stashing demo line.
